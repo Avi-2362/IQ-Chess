@@ -1,2 +1,2 @@
-# AI-Avinash
+# Artificial Intelligence 
 Smart Chess Game using AI
